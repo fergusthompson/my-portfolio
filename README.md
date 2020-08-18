@@ -141,14 +141,12 @@ All the wireframes can be found <a href="https://github.com/fergusthompson/my-po
 
 
 ## Features developed:
-* click counter
-* Flip Cards with matching pictures
+* 
+* 
 
 ## Features To be Developed
-* I would have liked to add a timer but didnt have time.
-* I would have liked to add difficulty settings but also didnt have the time.
+* 
 
-These features were on my wireframes but where then left out as development went on. I chose to put the click counter where the timer would have been to keep in line with the same kind of layout.
 
 ## Technologies Used:
 
@@ -184,26 +182,23 @@ The following tests have been used to ensure proper site functionality:
 ### Testing stories
 
 Firstly I put up my project on the peer review slack channel. After a few days i only got one review but it was as follows.
-* "one thing i will note is when i played i got all pairs with the last click but classed this as a fail!i'd consider a favicon as it's throwing an error to the console.remember to add a little annotation to your css but in general nice project build. The images are a little stretched i would consider just updating the images to the correct ratio, just a nitpick!"
-once i received this i went back to my project and fixed the clicking bug as explained in my bugs section as well as the images being slightly stretched thats also explained in the bugs section. Annottation was added to the css.
-* I had a friend and family play the game, they enjoyed it and found it easy to understand. There was no issues duirng play.
 
 ## User testing 
 
 #### Gary
-"i was able to understand the game very quickly once i start playing."
+""
 
 #### Steve
 
-"the game was super easy to understand and fun. images on iphone could have been set up better."
+""
 
 #### Graham
 
-"No advertising and quick to pick up. enjoyed the game and found it visually appealing"
+""
 
 #### Colin
 
-"Good game although very simple it was easy to understand and found it eye catching"
+""
 
 
 ## Overall:
@@ -249,21 +244,10 @@ Using vibrant colours like red, blue and white provide great contrast.
 
 ### Bugs during development
 
-* My wincodition variable had a `+-` instead of a `+=` which meant i couldnt get the code to work for a long time. To fix the issue i had a tutor look to point me in the right direction which helped massively.
-* When i wanted to duplicate the array of heroes at the beginning of my code i couldnt seem to find a way without writing them out twice.  A student saw my code snippet and helped me out.
-* I was having trouble using `""` and `''` when writing out html code in javascript.  My mentor reminded me about template literals which fixed the issue.
-* Image sizing has been a massive issue on the site as the hero images will not stay the same as the back face marvel logo images. still need to fix this.
-* i tried making a `shuffle function` but kept failing because i wasnt using a capital M for the `math.random`. i had a friend look at it and he pointed it out for me.
-* The `shuffle function` then didnt work once i added the html function at the top so i had to add a new way of shuffling the cards which did it before they were written into the html.  it didnt work for a long time as i had the wrong spelling in the function after a lot of inspection i found the problem.
-* The `gameRef.innerHTML` variable was actually `gamreRef.appendchild()` but this didnt work and i couldnt work out why so after some research i changed it to the code you see now as `gameRef.innerHTML()` which did the trick.
-* game wasnt working on iphone so passed the css through an autoprefixer and it fixed the issues.
-* If you were on your final click and you won the game by getting the last pair on your last click the lose screen was coming up.  i built a new `function` which the took the win and lose condititons in the same function instead of 2 different ones and it esemed to do the trick.
 
 ### known Bugs
 
-* the image sizing when the card is flipped is wrong. ive tried all sorts of things to change it like changing from `px` to `%` then i tried to re size the images using photoshop and re load them back in but that didnt work either.  I think the issue is coming from the way im flipping the cards using the css.
-* the cards are not exactly central on ipad but they look ok, theyre slightly off but it affects the iamges once margin or padding is alterered.
-* if you click too quickly on the cards before they turn back over when its checking for a match then the click counter goes down.
+* 
 
 ## Deployment: 
 
