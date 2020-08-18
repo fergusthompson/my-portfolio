@@ -127,7 +127,7 @@ I choose to use these colours as I feel the combination is perfect for my site a
 
 These are the colours I'll be using:
 
-![color pallete](https://github.com/fergusthompson/Worlds-most-amazing-memory-game/blob/master/wireframes/colours%20for%20marvel%20game.png?raw=true)
+![color pallete](https://github.com/fergusthompson/my-portfolio/blob/master/wireframes-colours/colours/my-portfolio-colours%20(1).png)
 
 
 ### Styling:
