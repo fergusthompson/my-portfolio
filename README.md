@@ -137,7 +137,7 @@ each page will follow the same colours and font to keep a running theme througho
 
 ## Wireframes:
 
-All the wireframes can be found <a href="https://github.com/fergusthompson/Worlds-most-amazing-memory-game/tree/master/wireframes">here</a>. for desktop tablet and mobile.
+All the wireframes can be found <a href="https://github.com/fergusthompson/my-portfolio/tree/master/wireframes-colours/wireframes">here</a>. for desktop tablet and mobile.
 
 
 ## Features developed:
