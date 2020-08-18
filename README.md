@@ -57,40 +57,44 @@ therefore choose me for theyre project.
 ## UX (User experience)
 
 ### User Goals:
-* A website that offers an easily understandable memory game.
+* A website that shows what the developer has to offer.
+* A well layed out show case of the developers skills.
 * Attractive call to action to encourage high level of engagement.
-* good visual interaction.
+* Good visual interaction.
 * Interact with the website on desktop, tablet and mobile.
     
 
 ### User Stories:
 
-* as a user i expect the game to work when i play.
-* as a user i expect the cards to flip when i click them.
-* as a user is expect to be able to see it porperly when im playing.
+* as a user i expect the buttons to work when i click them.
+* as a user i expect the website to be easily navigated when i load it.
+* as a user is expect the site to load the correct pages when i navigate to them.
+* as a user I want to be able to see what the developer can offer me when I need them for a project.
+* as a user i expect to see a professional looking site when when i want to hire somebody.
+* as a user i want to be bale to contact the developer when i need them.
 
 #### Gary
-"As a user i want to be able to understand the game very quickly once i start playing."
+"If I'm looking to hire somebody I will be expecting a very professional looking site"
 
 #### Steve
 
-"Too may games out there are hard to get to grips with and as a user i'm looking for something easy and fun when i play the game"
+"I want to be able to see what the developer has to offer me quickly and easily"
 
 #### Graham
 
-"as a user when i go online to play a game i dont want to have advertising shoved down my throat for ages before i get to play a game
-so i expect to be able to play quickly once i load up the page"
+"I want to be able to navigate around the site with ease"
 
 #### Colin
 
-"as a user I want something i can pck up quickly on my breaks at work therefore i expect 
-something that doesnt take a long time to learn once i start playing."
+"I want to be able to contatc the developer to work on my p[roject"
 
 ### Site Owner Goals:
 
-* Offer a fun game for people to play
-* Make an appealing looking site for players.
-* Keep it simple and addictive.
+* showcase my work to find jobs
+* Make an appealing looking site for prospective clients.
+* Keep it simple, clean and well layed out.
+* offer contact for clients
+* be able to link my repos and other work
 
 
 ## User Requirements and Expectations
