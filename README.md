@@ -131,8 +131,8 @@ These are the colours I'll be using:
 
 
 ### Styling:
-I choose a comic book style font and used the colours from the marvel logo in the 
-theme for the rest of the site.
+I'll be using a clean responsive 4 page design with a navigation bar fixed to the top and a footer fixed to the bottom.  
+each page will follow the same colours and font to keep a running theme throughout.
 
 
 ## Wireframes:
