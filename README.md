@@ -100,36 +100,30 @@ therefore choose me for theyre project.
 ## User Requirements and Expectations
 
 ### Requirements:
-* game must be easy to understand.
+* Easy navigation of the site.
 * Content displayed in visually appealing manor.
-* Information on how to play where necessary.
-* Must be fun to play.
+* be able to contact the developer.
+* be able to see the developers work and skillset.
+* to see the developers personal contact information.
+* responsive design
 
 ### Expectations:
 
 * To be visually appealing.
-* To be able to understand the game easily.
-* If they dont understand they will need information on how to play.
-* Fun!
+* To be able to contact the developer through email phone and any where else necessary.
+* A good looking professional site.
+* working links
 
 ## Design Choices 
-The theme for this game is going to be comic book Marvel characters. 
-The colour scheme will need to be bright and appealing and try to 
-co inside with the imagery of the marvel universe characters used on each of the 
-memory game tiles. 
+For my site I want it to to be kind of minimalistic as i feel this looks clean and showcases the main thing which will be my work.
+each page will have the same navigation, colour and font styling but the hero image will be different depending on the content for each page.
 
 ### Fonts:
-I chose to use the font Anton as it was the closest i could find to a comic book style font as the actual marvel font is 
-copywritten. but i think it fits in well with the style.
+I chose to use the font 'Poppins' for all the navigation and titles on the site and for the content i will use ..... as I feel it fits the clean style of the site. 
 
 ### Colours:
-Using knowledge from prior research of the marvel comic books the colours will
-need to be bright and eye cacthing with a darker background and I will try to match the colour scheme to
-the imagery of the marvel comic book characters used.
 
-* background-color: #061435 dark blue 
-* Tile colour: #ed1d24 red
-* lettering colour: #fff white
+I choose to use these colours as I feel the combination is perfect for my site and it is eyecatching.
 
 These are the colours I'll be using:
 
