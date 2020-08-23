@@ -16,6 +16,21 @@ def index():
     return render_template('index.html')
 
 
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
+
+@app.route('/resume')
+def resume():
+    return render_template('resume.html')
+
+
+@app.route('/contact')
+def contact():
+    return render_template('contact.html')
+
+
 @app.route('/get_skills')
 def get_skills():
     return render_template("skills.html", skills=mongo.db.skills.find())
