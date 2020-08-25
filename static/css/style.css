@@ -1,27 +1,64 @@
-.navbar{
-    background-color: #000;
-}
-
-.navbar li{
-    text-align: right;
-}
 
 .nav-link{
     color: #fff;
+    font-family: 'Poppins', sans-serif;
 }
 
 .navbar-brand{
     color: #fff;
+    font-family: 'Poppins', sans-serif;
 }
 
-
 header.masthead{
-    height: 70vh;
+    height: 60vh;
     background:no-repeat center center;
     background-attachment:scroll;position:relative;background-size:cover}
     
 .site-heading{
     text-align: center;
-    padding-top: 40%;
+    padding-top: 30%;
     color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sub-heading{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #0f0f0f;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+.portfolio-title{
+    text-align: center;
+}
+
+footer{
+    height:50px;
+    text-align: center;
+}
+
+a {
+    color: #fff;
+}
+
+.social-links li a i{
+    padding: 12px 0;
+    font-size: 30px;
+    padding-top: 50px;
+    color: #fff;
+}
+
+.footnote{
+    text-transform: uppercase;
+    font-family: "Poppins",sans-serif;
+    color: #fff;
+    font-size: 14px;
+    padding-top: 25px;
+}
+
+.card img{
+    height: 100%;
+    width: 100%;
 }
