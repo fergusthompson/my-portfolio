@@ -24,7 +24,7 @@ def about():
 
 @app.route('/resume')
 def resume():
-    return render_template('resume.html')
+    return render_template('resume.html', skills=mongo.db.skills.find())
 
 
 @app.route('/contact')
