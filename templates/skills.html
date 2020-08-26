@@ -1,8 +1,14 @@
 {% extends 'base.html' %}
 {% block content %}
 
+
+<div class="container">
     {% for skill in skills %}
-            {{skill.skill_name}}
-            {{skill.skill_score}}
+    <h3> {{skill.skill_name}}</h3>
+    <div class="progress">
+      <div class="progress-bar" role="progressbar" style="width: {{skill.skill_score}}%" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
     {% endfor %}
+</div>
+
 {% endblock %}

@@ -1,7 +1,12 @@
-
+nav{
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 24px;
+    font-weight: 400;
+}
 .nav-link{
     color: #fff;
     font-family: 'Poppins', sans-serif;
+    
 }
 
 .navbar-brand{
@@ -9,8 +14,9 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
 header.masthead{
-    height: 60vh;
+    height: 80vh;
     background:no-repeat center center;
     background-attachment:scroll;position:relative;background-size:cover}
     
@@ -21,14 +27,21 @@ header.masthead{
     font-family: 'Poppins', sans-serif;
 }
 
-.sub-heading{
+.site-name{
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.subheading{
     font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
 }
 
 body{
-    background-color: #0f0f0f;
+    background-color: #fff;
     font-family: 'Poppins', sans-serif;
-    color: #fff;
+    color: #000;
 }
 .portfolio-title{
     text-align: center;
@@ -40,20 +53,20 @@ footer{
 }
 
 a {
-    color: #fff;
+    color: #000;
 }
 
 .social-links li a i{
     padding: 12px 0;
     font-size: 30px;
     padding-top: 50px;
-    color: #fff;
+    color: #000;
 }
 
 .footnote{
     text-transform: uppercase;
     font-family: "Poppins",sans-serif;
-    color: #fff;
+    color: #000;
     font-size: 14px;
     padding-top: 25px;
 }

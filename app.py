@@ -37,15 +37,16 @@ def get_skills():
     return render_template("skills.html", skills=mongo.db.skills.find())
 
 
-@app.route('/admin_login', methods={'GET', 'POST'})
+@app.route('/admin_login', methods=['GET', 'POST'])
 def admin_login():
+
     if request.method == 'POST':
         existing_user = mongo.db.users.find_one(
             {"username": request.form.get("username").lower()})
-
         if existing_user:
-            if check_password_hash(
-                existing_user["password"], request.form.get("password")):
+            if check_password_hash(existing_user["password"], request.form.get("password")):
+                print("the right guy")
+
     return render_template("admin_login.html")
 
 
